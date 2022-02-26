@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All the transactions between the noblemen and gentlemen now in arms for the covenant, and the officers and soldiers now in arms by authority of the  Parliament of the kingdom of Scotland. Together with several orders made by the Committee of Estates in that kingdom, against all that have acted in the late unlawful engagement against the kingdom of England. Signed by command of the commissioners for the treaty, Mr. Tho: Henderson.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76050</idno>
+            <idno type="STC">Wing A948</idno>
+            <idno type="STC">Thomason E468_1</idno>
+            <idno type="STC">ESTC R14159</idno>
+            <idno type="EEBO-CITATION">99859621</idno>
+            <idno type="PROQUEST">99859621</idno>
+            <idno type="VID">111716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111716)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All the transactions between the noblemen and gentlemen now in arms for the covenant, and the officers and soldiers now in arms by authority of the  Parliament of the kingdom of Scotland. Together with several orders made by the Committee of Estates in that kingdom, against all that have acted in the late unlawful engagement against the kingdom of England. Signed by command of the commissioners for the treaty, Mr. Tho: Henderson.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>... reprinted at London by John Field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 17. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reprint. Originally published: Edinburgh : printed by Evan Tyler, printer to the Kings most Excellent Majesty.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111716:1"/>
+            <pb facs="tcp:111716:1" rendition="simple:additions"/>
+            <p>ALL THE TRANSACTIONS BETWEEN The Noblemen and Gentlemen Now in Arms for the COVENANT, AND The Officers and Soldiers now in Arms by Authority of the Parliament of the Kingdom of SCOTLAND.</p>
+            <p>
+               <hi>Together With</hi> Several ORDERS made by the Committee of Eſtates in that Kingdom, againſt all that have acted in the late unlawful ENGAGEMENT againſt the Kingdom of ENGLAND.</p>
+            <p>SIgned by Command of the Commiſſioners for the Treaty, <hi>Mr. THO: HENDERSON.</hi>
+            </p>
+            <p>
+               <hi>Edinburgh,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſty: And Reprinted at <hi>London</hi> by <hi>John Field,</hi> Octob. 17. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="transactions">
+            <div type="articles">
+               <pb facs="tcp:111716:2"/>
+               <pb n="3" facs="tcp:111716:2"/>
+               <head>Articles concluded upon by the Officers and Soldiers, now in Arms by Authority of the Parliament of the Kingdom of <hi>Scotland.</hi>
+               </head>
+               <p>WE being ſervants to the State, and unwil<g ref="char:EOLhyphen"/>ling to engage in a Civil War, do con<g ref="char:EOLhyphen"/>ceive our ſelves obliged to remit the ways of proſecuting of all duties to Religion, and to our King, to the determination of Church and State; And let them move in it, as they will be anſwerable to God: Our lives ſhall ever be ready to be expoſed to all hazards for the good of both, and if all duties for them, and for our friends releaſe in <hi>England</hi> ſhall now be deſerted, let the blame before God and men lie upon the obſtructors of it: And if no further uſe be made of our ſervice, We do Demand,
+<list>
+                     <item>I. That ſecurity be given to all who are or have been engaged in this Service for their Perſons, Honors and Eſtates, whereby they may be free from all dangers, prejudices and cenſures whatſoever, whether Eccleſiaſti<g ref="char:EOLhyphen"/>cal or Civil, for their Acceſſion to the late Engage<g ref="char:EOLhyphen"/>ment, or any thing done by them relating thereunto, or to this ſervice for our own defence: And this to be confirmed by Parliament, or the lawful Authority of the Kingdom.</item>
+                     <item>II. That in regard of our extraordinary charges and loſs, one Moneths pay be inſtantly delivered unto us, for payment of the Iriſh Forces, and that Boats and Ships preſently he provided for their tranſportation into <hi>Ireland:</hi> And for preventing all diſorders upon their
+<pb n="4" facs="tcp:111716:3"/>march through the Weſt Countrey by Free quartering, We do deſire that a regular courſe may be taken for their entertainment during their abode there, which ſhall be no longer then wind and weather ſhall ſerve, and Boats be provided to Tranſport them.</item>
+                     <item>III. That one Moneths means be provided for the Scottiſh Forces, and that they be not disbanded, until the Iriſh Forces be Tranſported; and that ſufficient pledges be delivered for performance of what is deſired. And that our Disbanding and Tranſportation be done by Authority of the Committee of Eſtates.</item>
+                  </list>
+               </p>
+               <p>Theſe reaſonable demands being performed, We the Iriſh are ready inſtantly to march towards any part of the Weſt coaſt which ſhall be thought moſt fit for our Tranſportation into <hi>Ireland,</hi> and we of the Scottiſh, in<g ref="char:EOLhyphen"/>ſtantly to Disband: Otherwiſe, rather then expoſe our Lives and Fortunes to the mercy of any, by the want of fitting aſſurances for what is paſt, or the loſs of our Honors by deſerting the Intereſt of thoſe commanded by, or joyned with us, We are reſolved to ſacrifice our ſelves at the deareſt rates we can; And take God to witneſs how free we are of the guilt and conſequences that may follow thereupon.</p>
+               <closer>
+                  <dateline>
+                     <hi>Stirling</hi> 
+                     <date>18. <hi>Septemb.</hi> 1648.</date>
+                  </dateline>
+
+                  <signed>
+                     <hi>Signed by Warrant and Command of the Officers now in Arms by the Authority of Parliament,</hi> JO: SPALDGUGE.</signed>
+               </closer>
+               <postscript>
+                  <p>We have appointed our Commiſſioners to ſtay no longer then ſix a clock at night, to morrow the 19. and that the Treaty ſhall then end; and that the Ceſſation ſhall expire eight hours thereaf<g ref="char:EOLhyphen"/>ter, unleſs the deſires before mentioned be fully granted.</p>
+               </postscript>
+            </div>
+            <div type="answer">
+               <pb n="5" facs="tcp:111716:3"/>
+               <head>The Anſwer of the Noblemen and Gentlemen now in Arms for the Covenant, to the Arti<g ref="char:EOLhyphen"/>cles of the Officers and Soldiers that joyn<g ref="char:EOLhyphen"/>ed in the late unlawful Engagment againſt <hi>England,</hi> and now continue in Arms to diſturb the Peace of this Kingdom.</head>
+               <p>WE have conſidered the Deſires of the Officers and Soldiers at Sterling, and do return this Anſwer, That the Im<g ref="char:EOLhyphen"/>putation of neglecting duties to Reli<g ref="char:EOLhyphen"/>gion and to the King, mentioned in the Preface to the Articles, cannot be charged on us, who have never been wanting in the uſe of all lawful means, to proſecute the ends of our ſolemn League and Covenant: But upon thoſe who joyned in proſecution of the late unlawful Engagement againſt our Neigh<g ref="char:EOLhyphen"/>bor Nation of <hi>England,</hi> which hath been deſtructive to all theſe ends.</p>
+               <p>Touching the firſt Article, we refer you to the Anſwer given in our former Papers, and do here again declare, That we ſhall not challenge, nor incite any other to challenge any of your number for their lives and Eſtates, but ſhall endeavor to ſecure them ſo far as we
+<pb n="6" facs="tcp:111716:4"/>can without approbation of their Actions, or the breach of Covenant and Treaties. As for that which concerns exemption from Church cenſures, we cannot meddle therein without breach of Covenant, but muſt refer you to the Judicatories of the Kirk, to whom you may make your own addreſs, and receive their Anſwer.</p>
+               <p>Concerning the ſecond and third Articles, we refer you to the Anſwer given by our Commiſſioners, to the Commiſsioners on your ſide; which was, That we held it unreaſonable that they ſhould deſire any thing from us, or any other who adhere to us, for ſatisfaction of their Officers and Soldiers, becauſe we will not involve our ſelves in any thing which may import an acceſsion to the late Engagement, or may be the ground of a quarrel to <hi>England</hi> againſt this Kingdom; But if they had real Inclinations to Peace, they and their Ad<g ref="char:EOLhyphen"/>herents might, without our acceſsion thereunto, take courſe amongſt themſelves for giving ſatisfaction to their Officers and Soldiers, and therefore did deſire (and do now again renew the ſame) that all their Forces, and the Forces of theſe who adhere unto them, may be disbanded betwixt and the twenty fifth, or at fur<g ref="char:EOLhyphen"/>theſt the twenty eight day of this moneth of <hi>September,</hi> and that none of them be found together after that time in Troops, Companies or Regiments; and we ſhall betwixt and the ſaid day, disband all our Forces, and none of them after that time ſhall be found in Troops, Companies or Regiments; for the punctual performance whereof on both ſides, mutual pledges are to be given: And further we cannot ſay in Anſwer to theſe Articles.</p>
+               <pb n="7" facs="tcp:111716:4"/>
+               <p>If you ſhall not agree to the Deſires made in our laſt Papers of the 16 of this Inſtant, and not reſt ſatisfied with theſe Anſwers, but ſhall continue in Arms to the diſturbance of the Peace of this Kingdom, and perſiſt in the courſes in which you are now engaged, contrary to the Declarations of the General Aſſembly and their Commiſſioners: We do hereby certifie unto you, that all who have been active in the late Engagement, as well thoſe in <hi>England,</hi> as thoſe in this Kingdom, and all ſuch as have, or ſhall hereafter joyn with you, are to be declared Enemies to both Kingdoms, and that this Kingdom will be neceſſitated to concur with the Kingdom of <hi>England</hi> for puniſhing them accordingly as breakers of the Covenant and Treaties; and we leave it to you ſeriouſly to conſider, whither the ways and courſes you are upon, be really for the good of the King and this Kingdom, or a ſafe way for the relief of your friends that are priſoners in <hi>England.</hi>
+               </p>
+               <p>We do declare, that unleſs the Deſires contained in our Papers of the 16 of this Inſtant, and in this Paper be clearly and poſitively agreed unto, and we advertiſed thereof, before Friday the 22 of this inſtant, at twelve of the Clock in the day, that then the Treaty ſhall end, and that the ceſſation from Acts of Hoſtility and march<g ref="char:EOLhyphen"/>ing of. Forces ſhall expire eight hours thereafter.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>September</hi> 20. 1648.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Subſcribed by command of the Noble<g ref="char:EOLhyphen"/>men and Gentlemen now in Arms for the Covenant.</hi> Mr. THO. HENDERSON.</signed>
+               </closer>
+            </div>
+            <div type="articles">
+               <pb n="8" facs="tcp:111716:5"/>
+               <head>The laſt Offers of the Noblemen and Gentlemen now in Arms for the Covenant, To the Earls of <hi>Crawford, Glencairn</hi> and <hi>Lancrick, George, Monro,</hi> and others joyned with them in the late unlawful Engagement againſt the King<g ref="char:EOLhyphen"/>dom of <hi>England.</hi>
+               </head>
+               <p>VVE have ſeriouſly conſidered the ſad and deplo<g ref="char:EOLhyphen"/>rable condition to which this Kingdom is now brought, by your proceedings and actions in purſuance of the late Engagement againſt our neighbor Nation of <hi>England,</hi> with whom we are joyned in Covenant, and the fearful deſolation that is likely further to come upon it, by the return of a part of that Army which invaded <hi>England;</hi> And after ſeveral Debates and Conferences with your Lordſhips, theſe ſeveral days by paſt, both by word and writing, We do finde the ſtate of the dif<g ref="char:EOLhyphen"/>ference betwixt your Lordſhips and us to be this: That which hinders agreement upon our part, is the point of Conſcience, forbidding us to do any thing which may infer an acceſſion to the late Engagement, the deſire we have to keep the Covenant and Treaties, and not break the Union betwixt the Kingdoms, and to avoid a quar<g ref="char:EOLhyphen"/>rel with <hi>England,</hi> which may deſtroy this Kingdom, and entail a War upon us and our poſterity, and to prevent the expoſing of the Cauſe and Kingdom to the ſame dangers under which they now lie, from which grounds we cannot part; Whereas the Articles on your part, which hinder agreement, are ſuch from which your Lordſhips may eaſily recede. We have very much en<g ref="char:EOLhyphen"/>deavored in our laſt Paper to give your Lordſhips all juſt and reaſonable ſatisfaction; yet that it may further appear how deſirous we are to prevent an Inteſtine War, and to have the Peace of the Kingdom ſetled, we offer
+<pb n="9" facs="tcp:111716:5"/>unto your Lordſhips theſe Articles following to be a<g ref="char:EOLhyphen"/>greed on.</p>
+               <list>
+                  <item>I. That for eaſing the burthens of the Kingdom, and to prevent famine and deſolation, all forceson both ſides, whither in the field, or in the Gariſons of Berwick and Carliſle, or the Gariſons within the Kingdom, be dis<g ref="char:EOLhyphen"/>banded betwixt the 25 day of this inſtant moneth of <hi>Sep.</hi>
+                  </item>
+                  <item>II. That the ſecuring and ſettling of Religion at home, and the promoting the work of Reformation abroad in <hi>England</hi> and <hi>Ireland,</hi> be referred to the determination of the general Aſſembly or their Commiſsioners, &amp; that all Civil queſtions &amp; differences whatſoever, be referred to the determination of a <hi>Parliament</hi> to be ſpeedily called.</item>
+                  <item>III. To prevent the imminent dangers to Religion, and a quarrel with our neighbor Nation in the mean time, until the meeting of a Parliament (which cannot be done without a Treaty betwixt the Kingdoms) That all of your number who have been imployed in publique place or truſt, ſhall forbear the exerciſe thereof, and not come to the Committee of Eſtates, to the end there may be a Committee of Eſtates conſiſting of ſuch Members as are free of the late Engagement, and againſt whom <hi>England</hi> may not have this exception, That ſuch have the managing of the affairs of this Kingdom as they eſteem their Enemies, and with whom they cannot treat. And if your Lordſhips ſhall out of love to this almoſt ruined Kingdom, yield to thoſe our juſt Deſires, we are very confident that the Peace of this Kingdom ſhall be ſetled, the Union betwixt the Kingdoms continued, and all quarrels prevented.</item>
+               </list>
+               <closer>
+                  <dateline>
+                     <hi>Woodſide,</hi> 
+                     <date>16 <hi>Sept.</hi> 1648.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Signed by command of the Com<g ref="char:EOLhyphen"/>miſsioners for the Treaty.</hi> Mr. <hi>Tho: Henderſon.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="10" facs="tcp:111716:6"/>
+               <head>At Edinburgh, <date>22 Septem. 1648.</date>
+               </head>
+               <head type="sub">An Order of the Committee of Eſtates, declaring all thoſe enemies to Religion, King and Kingdoms, that ſhall perſist to commit any Rapines, do any vio<g ref="char:EOLhyphen"/>lence, or acts of Hostility, under any pretence of Authority whatſoever, and forthwith to lay down Arms.</head>
+               <p>WHereas divers perſons in the Iſles and Highlands of this Kingdom, under pre<g ref="char:EOLhyphen"/>tence of Commiſsions iſſued to the Captains and Chieffs of Clanns by the Duke of <hi>Hamilton,</hi> or others who Authorized the late unlawful Engagement againſt <hi>England,</hi> and are now in Arms in this Kingdom for proſecution of the ſame, have combined themſelves, and entred into a Confederacy, to invade, fall upon, and deſtroy the L. Marquis of <hi>Argyles</hi> Lands; and to ſpoil, ruine and lay waſte other places of this Kingdom, by exerciſing all acts of Hoſtility againſt the well affected. To the end therefore that all ſuch perſons may be rightly informed, and not miſled, by entring into ſo a horrid a Re<g ref="char:EOLhyphen"/>bellion, of following ſuch deſperate Counſels
+<pb n="11" facs="tcp:111716:6"/>and Courſes, tending to their own deſtruction, and the diſturbance of the Peace of the King<g ref="char:EOLhyphen"/>dom; eſpecially in the preſent condition of Affairs, when the Army which lately invaded <hi>England</hi> is wholly diſsipated and routed, and conſiderable Forces already raiſed, and more to be leavyed for ſuppreſsing the remainder thereof now in this Kingdom, and others whoſoever ſhall adhere to them, or joyn with them in Arms to the promoting of that En<g ref="char:EOLhyphen"/>gagement, and continuance of our Troubles; When the Parliament of <hi>Englands</hi> Forces are alſo preſently lying before the Towns of Ber<g ref="char:EOLhyphen"/>wick and Carliſle, for reducing the ſame to the Kingdom of <hi>England,</hi> whereby the King<g ref="char:EOLhyphen"/>dom was in a fair way to attain an end of Troubles, and all Obſtructions of the Union betwixt both the Nations to be happily remo<g ref="char:EOLhyphen"/>ved. The great deſires that we have of the Peace and quiet of the Kingdom; And that all ſuch who are or ſhall be enſnared by falſe Suggeſtions, may be reclaimed and drawn off ſuch Rebellious Interprizes, which will kindle the flames and combuſtion of the Kingdom, and retard the eſtabliſhment of a deſired Peace,
+<pb n="12" facs="tcp:111716:7"/>Have made us to exhort, like as we do require and charge all ſuch Captains and Chieffs of Clanns, and others who are now in charge, or adhere to them in this their Rebellion, To ſhew themſelves good and dutiful Sub<g ref="char:EOLhyphen"/>jects, forthwith to lay down Arms, to for<g ref="char:EOLhyphen"/>ſake that Rebellion, and to behave themſelves in all quiet and peaceable maner; certifying them and each of them, That if they perſiſt and continue to commit any Rapines, do any Violence, or acts of Hoſtility under any pre<g ref="char:EOLhyphen"/>tence or Authority whatſoever, They ſhall be eſteemed as Enemies to Religion, King and Kingdoms, and purſued and puniſhed accord<g ref="char:EOLhyphen"/>ingly: And hereof they are to take ſpecial notice, and give obedience under all higheſt pains. And we Ordain theſe preſents to be publiſhed at the Mercat Croſs of <hi>Edinburgh,</hi> and other places needful; and alſo to be Print<g ref="char:EOLhyphen"/>ed, that none pretend ignorance.</p>
+               <closer>
+                  <signed>Mr. <hi>Tho: Henderſon.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="13" facs="tcp:111716:7"/>
+               <opener>
+                  <dateline>Edinburgh, <date>
+                        <hi>22.</hi> September, <hi>1648.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>VVHereas many within this Kingdom have joyn<g ref="char:EOLhyphen"/>ed in Arms for proſecuting of an unlawful Engagement againſt our Neighbor Nation of <hi>Ecg<g ref="char:EOLhyphen"/>land,</hi> contrary to the Solemn League and Covenant, and Treaties betwixt the Kingdoms, the Warnings and Declarations of the Commiſſion of the General Aſ<g ref="char:EOLhyphen"/>ſembly, 1647. And likewiſe againſt the unanimous Pro<g ref="char:EOLhyphen"/>ceedings and Declarations of the late General Aſſem<g ref="char:EOLhyphen"/>bly and their Commiſſioners: And whereas God hath evidently manifeſted his diſpleaſure and wrath againſt their ſinful ways and proceedings, in oppreſſing the wel<g ref="char:EOLhyphen"/>affected in this Kingdom, invading the Kingdom of <hi>England,</hi> by Routing and Defeating their Army there: And now ſome of their Army have returned to this Kingdom, and joyned with others their aſſociates to di<g ref="char:EOLhyphen"/>ſturb the Peace thereof; By which their Proceedings and Actions, the work of Reformation of Religion hath been almoſt wholly overturned, the Liberty of the Subject very near deſtroyed, Authority weakened, the Perſon of the King put in hazard, the Union be<g ref="char:EOLhyphen"/>twixt the Kingdoms endeavored to be broken, occaſion of quarrel given to our neighbor Nation, and this Kingdom brought to ſo ſad and deplorable condition, as (if the Lord in mercy prevent not) Famine and De<g ref="char:EOLhyphen"/>ſolation is like to de added to all our troubles and miſe<g ref="char:EOLhyphen"/>ries: Therefore to prevent the eminent dangers to Re<g ref="char:EOLhyphen"/>ligion, and to the King, for ſetling the Peace of this greatly diſtracted Kingdom; And to the end the affairs of this Kingdom may not be managed by ſuch perſons as the Kingdom of <hi>England</hi> do eſteem Enemies for their
+<pb n="14" facs="tcp:111716:8"/>concurrence in the late Engagement: The Committee of Eſtates conſiſting of ſuch perſons as were no minated to be on the Commiſſion of Parliament, and did diſ<g ref="char:EOLhyphen"/>aſſent in Parliament from, and Proteſt againſt the late unlawful Engagement, Do declare, that they are reſol<g ref="char:EOLhyphen"/>ved to Act and Direct in the publike affairs by vertue of the Authority of that Nomination of the Parliament, and their Legal Proteſtation in it: And that in Acting and Directing, they reſolve to proceed with the advice and conſent of ſuch Members of the late Parliament, as did concur with them in the ſaid Proteſtation, and do now concur in Arms in proſecuting of the ſame: As al<g ref="char:EOLhyphen"/>ſo with the advice and conſent of ſuch two Commiſſi<g ref="char:EOLhyphen"/>oners, and one Burgeſs as ſhall be entruſted reſpective<g ref="char:EOLhyphen"/>ly by the Shires and Burghs joyning with us in Arms for the Covenant; and that they will not admit into their Counſels, or Committees, any perſons who have concurred in arms or Counſel for the late unlawful Engagement, or who have Subſcribed the Bond, or Sworn, or Subſcribed any Oath, or Declaration for proſecuting that Engagement. And further, that they will admit none who have been aiding, or ſhall be aiding or aſſiſting to, or abetting and agenting for theſe who are now joyned in arms with the Earl of <hi>Crawford,</hi> Earl of <hi>Glencairn,</hi> Earl of <hi>Lanerick,</hi> Lord <hi>Sinclair,</hi> Lord Regiſter, <hi>George Monro,</hi> and their adherents, nor any ſuch as have, or ſhall declare their judgement a<g ref="char:EOLhyphen"/>gainſt this Cauſe and our Proceedings in purſuance thereof. And we ordain theſe Preſents to be publiſhed; and alſo to be Printed that none pretend ignorance.</p>
+               <closer>
+                  <signed>Mr. THO: HENDERSON.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="15" facs="tcp:111716:8"/>
+               <opener>
+                  <dateline>Edinburgh, <date>
+                        <hi>22</hi> September, <hi>1648.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>THe Committee of Eſtates conſidering that the putting of the diſ-affected and Malignant Per<g ref="char:EOLhyphen"/>ſons in Places of truſt and power, in the ſeveral Shires and Burghs of this Kingdom, hath been one of the greateſt cauſes which hath brought all theſe evils upon this Kingdom: And for the reaſons contained in the former Act, do therefore finde it neceſſary to require, And do hereby command and require the ſeveral Shires in the Election of their Commiſsioners to Parliament, and Burghs in Election of their Commiſsioners to Par<g ref="char:EOLhyphen"/>liament, Magiſtrates and Counſel, that they make choice of none but ſuch as have continued conſtant and faith<g ref="char:EOLhyphen"/>ful in this cauſe: And that they will not admit any to be in the former places of Truſt, Commiſsions, Magi<g ref="char:EOLhyphen"/>ſtracy or Counſels, who have concurred in Arms or Counſel for the late unlawful Engagement, or who have ſubſcribed the Bond, or ſworn, or ſubſcribed any Oath or Declaration for proſecuting that Engagement: And further, That they will admit none who have been aid<g ref="char:EOLhyphen"/>ing, or ſhall be aiding or aſsiſting to, or aborting and agenting for theſe who are now joyned in Arms with the Earls of <hi>Crawford,</hi> Earl of <hi>Glencairn,</hi> Earl of <hi>Lanerick,</hi> Lord <hi>Sinclair,</hi> Lord Regiſter, <hi>George Monro,</hi> and their Adherents, nor any ſuch as have or ſhall declare their judgement againſt the Cauſe, and our proceedings in purſuance thereof. And we Ordain theſe preſents to be publiſhed at the Mercat Croſs of <hi>Edinburgh,</hi> and other places needful; and alſo to be Printed, that none pre<g ref="char:EOLhyphen"/>tend ignorance.</p>
+               <closer>
+                  <signed>Mr. THO: HENDERSON.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
